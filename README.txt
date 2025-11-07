@@ -1,6 +1,7 @@
 Avery Astorino
 101295020
 
+Instructions to compile and run:
 1. Make sure `postgresql-42.7.8.jar` is in the same folder as your Java file.
 2. To compile, in the terminal, use the command:
         javac -cp postgresql-42.7.8.jar COMP3005_A3Q1.java
